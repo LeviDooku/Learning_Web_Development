@@ -1,0 +1,1 @@
+alert("Bienvenid@ a mi proyecto con JS!")
