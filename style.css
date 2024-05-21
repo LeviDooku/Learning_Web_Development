@@ -1,8 +1,0 @@
-html, body{
-    height: 100%;
-}
-
-body{
-    margin: 10;
-    background: linear-gradient(to bottom right, rgb(75, 112, 193), violet);
-}

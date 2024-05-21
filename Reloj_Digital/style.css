@@ -1,0 +1,105 @@
+html, body{
+    height: 100%;
+    padding: 0;
+    background: linear-gradient(to bottom right, rgb(75, 112, 193), violet);
+}
+
+body{
+    margin: 10px;
+}
+
+#menu{
+    margin: auto;
+    width: auto;
+    font-size: large;
+    padding: 0;
+}
+
+ul, ol{
+    list-style-type: none;
+}
+
+.nav li a{
+    background-color: rgba(128, 128, 128, 0.5);
+    color:black;
+    text-decoration: none;
+    padding: 10px 15px;
+    display: block;
+    box-shadow: 0 2px 0 rgba(0, 0, 0, 0.2);
+}
+
+#sinmod{
+    color:black;
+    text-decoration: none;
+    padding: 10px 20px 10px 5px;
+    display: block;
+}
+
+.nav li a:hover{
+    background-color: rgba(181, 178, 178, 0.5);
+    text-decoration: underline;
+    text-decoration-color: black;
+    border-bottom: 1px solid #333;
+}
+
+.nav > li {
+    float: left;
+}
+
+.nav li ul{
+    display: none;
+    position: absolute;
+    min-width: 2rem;
+}
+
+.nav li:hover > ul{
+    display:block;
+    position: inherit;
+}
+
+#title2{
+    clear: both;
+    padding-top: 15px;
+}
+
+.img{
+    width: 600px;
+}
+
+.img:hover{
+    cursor: pointer;
+    box-shadow: 0 0.1rem 0.4rem rgba(0, 0, 0, 0.5);
+}
+
+.formulario{
+    margin: 10;
+    padding-bottom: 10px;
+}
+
+#div_saludo{
+    padding-bottom: 10px;
+}
+
+.footer{
+    background-color: rgba(128, 128, 128, 0.5);
+    padding: 20px;
+    overflow: hidden;
+}
+
+#gitlink{
+    color: black;
+    font-size: x-large;
+    margin: 24px;
+}
+
+#gitlink:hover{
+    cursor: pointer;
+}
+
+.div_footer{
+    display: flex;
+    justify-content: space-around;
+    clear: both;
+}
+
+
