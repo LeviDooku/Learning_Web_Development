@@ -1,5 +1,7 @@
 # Learning_Web_Development
 
+[!maicenayjs](Reloj_Digital/img/marihuanayjs.jpg)
+
 ## El por qué de este repo  
 
 Me he propuesto aprender durante una hora al día varios lenguajes de programación de los cuales no tengo conocimiento, empezando desde 0. A pesar de que tengo un ligero conocimiento de HTML/CSS nunca he usado (al menos pensando lo que hago) JavaScript en mis proyectos.
