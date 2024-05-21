@@ -1,6 +1,6 @@
 # Learning_Web_Development
 
-[!maicenayjs](Reloj_Digital/img/marihuanayjs.jpg)
+![maicenayjs](Reloj_Digital/img/marihuanayjs.jpg)
 
 ## El por qué de este repo  
 
