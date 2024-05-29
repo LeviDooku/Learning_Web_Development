@@ -13,6 +13,7 @@ Para aprender JavaScript y recordar HTML/CSS haré pequeños proyectos práctico
 ## Timeline de avances
 
 Martes 21 de Mayo: empezando el proyecto del reloj digital. Primer contacto usando JavaScript para crear un formulario en el que se devuelve un mensaje al usuario.
+Miércoles 29 de Mayo: ya existe un reloj que muestra la hora y la actualiza cada segundo. El problema ahora no está siendo JS sino HTML/CSS, ya que por algún motivo que aún desconozco, los elementos no se colocan como deberían, tengo que descubrir por qué
 
 ## Directorio de ficheros
 
