@@ -80,10 +80,10 @@ ul, ol{
     padding-bottom: 10px;
 }
 
-.footer{
+footer{
     background-color: rgba(128, 128, 128, 0.5);
     padding: 20px;
-    overflow: hidden;
+    overflow: hidden;    
 }
 
 #gitlink{
